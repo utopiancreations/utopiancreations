@@ -23,16 +23,16 @@ My development process is built around **Collaborative AI Engineering**. I speci
 
 ## 🚀 Flagship Projects
 
-### [LezFindr](./lezfindr) *(Proprietary)*
+### [LezFindr](https://github.com/utopiancreations/lezfindr) *(Proprietary)*
 A community-centric dating and social application for the LGBTQ+ community. I recently spearheaded a complete backend migration to a custom serverless edge architecture.
 * **Tech Stack**: Flutter, Cloudflare Workers, Hono, Durable Objects, Neon (PostgreSQL), Cloudflare R2.
 * **Status**: Live in App Store and Google Play. 
 
-### [Auroara](./auroara)
+### [Auroara](https://github.com/utopiancreations/auroara)
 A dedicated platform focused on teaching and fostering Radical Acceptance. Designed to provide resources and community tools for personal growth and deconstruction.
 * **Tech Stack**: React, Node.js.
 
-### [Luminary Nexus Token & Utopia Community](./luminarynexustoken)
+### [Luminary Nexus Token & Utopia Community](https://github.com/utopiancreations/luminarynexustoken)
 A decentralized, ethical community blueprint and token system prioritizing sustainable living and equitable technology integration.
 * **Focus**: Blockchain architecture, decentralized systems, community governance.
 
